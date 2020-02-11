@@ -19,7 +19,7 @@
 - Output should look as follows:
 
 
-![Kafka Consumer 2-10-20 at 11.44 AM.png](./screenshots/Kafka Consumer 2-10-20 at 11.44 AM.png)
+![Kafka Consumer 2-10-20 at 11.44 AM.png](screenshots/Kafka_Consumer.png)
 
 
 - In another terminal windows please run the Spark Streaming Script as follows:
@@ -34,7 +34,7 @@
 - In the Udacity Wokspace you can click now on the **preview** button which will open the Spark UI in port 3000. The user interface looks as follows:
 
 
-![Spark UIt from 2020-02-10 15-26-58.png](./screenshots/Spark UIt from 2020-02-10 15-26-58.png)
+![Spark UIt from 2020-02-10 15-26-58.png](screenshots/Spark_UI.png)
 
 
 
