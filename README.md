@@ -28,7 +28,7 @@
 
 - The output of executing that command should look as follows:
 
-![Spark Submit Output from 2020-02-10.png](./screenshots/Spark Submit Output from 2020-02-10.png)
+![Spark Submit Output from 2020-02-10.png](screenshots/Spark Submit Output from 2020-02-10.png)
 
 
 - In the Udacity Wokspace you can click now on the **preview** button which will open the Spark UI in port 3000. The user interface looks as follows:
